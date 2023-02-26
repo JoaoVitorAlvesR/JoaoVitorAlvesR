@@ -1,9 +1,9 @@
-## Olá, Eu sou o João Vitor 👋
+## Hi, My name is João Vitor 👋
 
-- 🔭  Eu estou atualmente trabalhando com Desenvolvimento de Software!
-- 🌱  Estou estudando React.JS, Tailwind e NestJS!
-- 📕  Muito interessado em aprender tecnologias!
-- ↗️  Estudo para me desenvolver na área de programador!
+- 🔭  I am currently working with Software Development!
+- 🌱  I am studying React.JS, Tailwind and NestJS!
+- 📕  I am constantly learning about technologies!
+- ↗️   I study to develop myself in the area of technolog!
 
 
 
