@@ -8,7 +8,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorAlvesR&show_icons=true&theme=radical)
+##![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorAlvesR&show_icons=true&theme=radical)
 
 
 <div style="display: inline_block"><br>
