@@ -16,12 +16,10 @@
   <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Joao-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Joao-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
-  <img  align="center" alt="Joao-TAILWIND" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img align="center" alt="Joao-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Joao-NEST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Joao-DOCKER" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
- src="https://cdn.discordapp.com/attachments/719330020866130004/946844572741435462/download20220205160202.png?width=676&height=676">
+  
 </div>
 
    ##
@@ -31,8 +29,3 @@
    <a href = "https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-rocha-753176195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
-
- 
-  
-  ![Snake animation](https://github.com/JoaoVitorAlvesR/JoaoVitorAlvesR/blob/output/github-contribution-grid-snake.svg)
- 
