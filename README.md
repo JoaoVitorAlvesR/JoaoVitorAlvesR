@@ -1,7 +1,7 @@
 ## Hi, My name is João Vitor 👋
 
 - 🔭  I am currently working with Software Development!
-- 🌱  I am studying React.JS, Tailwind and NestJS!
+- 🌱  I am studying Next.js and Tailwind!
 - 📕  I am constantly learning about technologies!
 - ↗️   I study to develop myself in the area of technolog!
 
